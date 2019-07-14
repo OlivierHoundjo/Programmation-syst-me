@@ -9,6 +9,17 @@ Exercice 2
 3-) Implémentation (voir Exercice2.c)
 
 
+
+Exercice5
+
+1-) Les problème a résoudre : envoyer une requete toute les dix secondes , modifier la valeur de la mémoire partagée 
+après chaque requete 
+
+2-) Pour envoyer une requete toute les dix secondes , la fonction sleep a été utilisé et pour modifié la valeur de la mémoire partagées, deux processus le font de manière concourente
+
+3-)Implémentation (Voir Exercice5_Serveur.c et Exercice5_Client.c)
+
+
 Exercice 4
 
 
